@@ -1,4 +1,4 @@
-## Olá, sou Samela Faria
+## 👋 Olá, sou Samela Faria
 
  👩🏻‍💻 Sou Desenvolvedora Web com foco em Front-end
  
