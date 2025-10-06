@@ -38,11 +38,11 @@
   Me encontre nas redes sociais ou confira meus repositórios!
 </p>
 <p align="center">
-  <a href="[SEU-LINK-AQUI-DO-LINKEDIN]" target="_blank">
+  <a href="[http://www.linkedin.com/in/samela-farias-6a153a2a2]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:[SEU-EMAIL-AQUI]">
+  <a href="mailto:[samelafarias2005@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
