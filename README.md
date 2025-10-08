@@ -14,8 +14,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,vite,ts,tailwind,html,css,bootstrap,figma&theme=dark" />
-   <br>
-     <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,electron" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,electron" />
   </a>
 </p>
 
@@ -38,11 +38,11 @@
   Me encontre nas redes sociais ou confira meus repositórios!
 </p>
 <p align="center">
-  <a href="[http://www.linkedin.com/in/samela-farias-6a153a2a2]" target="_blank">
+  <a href="https://www.linkedin.com/in/samela-farias-6a153a2a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:[samelafarias2005@gmail.com]">
+  <a href="mailto:samelafarias2005@gmail.com" target='_blank'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
