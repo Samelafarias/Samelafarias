@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou a Samela Farias
 
-<p>Desenvolvedora qeb com foco em frontend apaixonada por criar soluções inovadoras e explorar o universo da tecnologia.</p>
+<p>Desenvolvedora web com foco em frontend apaixonada por criar soluções inovadoras e explorar o universo da tecnologia.</p>
 
 
 </div>
