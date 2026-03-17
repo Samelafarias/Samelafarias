@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
