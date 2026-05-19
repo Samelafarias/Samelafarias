@@ -45,4 +45,8 @@
   <a href="mailto:samelafarias2005@gmail.com" target='_blank'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  &nbsp;
+  <a href="[mailto:samelafarias2005@gmail.com](https://samela-portfolio.vercel.app/)" target='_blank'>
+    <img src="https://img.shields.io/badge/Portfólio-9c63f0?style=for-the-badge&logo=code&logoColor=white" alt="Portfólio">
+  </a>
 </p>
