@@ -22,11 +22,18 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samelafarias&theme=2077" alt="Estatísticas Gerais" />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samelafarias&theme=2077" alt="Linguagens Mais Usadas" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samelafarias&theme=2077" alt="Estatísticas Gerais" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samelafarias&theme=2077" alt="Linguagens Mais Usadas" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
