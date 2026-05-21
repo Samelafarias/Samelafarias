@@ -1,21 +1,20 @@
 name: Generate Snake
 
 on:
-  # Corre automaticamente a cada 24 horas
   schedule:
     - cron: "0 0 * * *"
-  
-  # Permite correr manualmente a qualquer momento
   workflow_dispatch:
+
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Faz o download do repositório
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha com base nos teus commits
       - uses: Platane/snk@v3
         id: snake-gif
         with:
