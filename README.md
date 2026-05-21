@@ -2,11 +2,10 @@
 
 # 👋 Olá! Eu sou a Samela Farias
 
-<p>Desenvolvedora web com foco em frontend apaixonada por criar soluções inovadoras e explorar o universo da tecnologia.</p>
+#### Desenvolvedora web com foco em frontend apaixonada por criar soluções inovadoras e explorar o universo da tecnologia.
 
 </div>
-
----
+<br />
 
 ### 🚀 Minhas Stacks & Ferramentas
 
